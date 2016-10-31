@@ -1,2 +1,2 @@
-cd /Users/Student/git/DSSAT_Source
+cd /Users/elizahoffman/git/DSSAT_Source
 make clean
